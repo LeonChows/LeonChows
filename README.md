@@ -1,6 +1,6 @@
 ## Hi My Friend👋
 
-- :yum: My name is: Zhou SiZheng
+- :yum: My name is: Zhou
 - 🔭 I’m a 2025 graduate.
 - 🌱 I’m currently learning C/C++;Python;MFC;Reverse;Socket;QT ...
 - 🤔 I'm a GitHub newbie and I feel like I can find my confidants here as well as those who have helped me.
